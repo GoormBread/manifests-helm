@@ -1,0 +1,4 @@
+nodePort: 30032
+postgresql:
+  user: root
+  password: root
