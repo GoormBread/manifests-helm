@@ -3,9 +3,9 @@ entries:
   k8s-logging:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-05-30T00:30:42.363514+09:00"
+    created: "2024-05-30T00:52:06.15639+09:00"
     description: kubernetes manifest. collect log and searh by elasticsearch & kibana
-    digest: 3e998ea2028a92d0f13febe7590904c5a8b49d83adedb3232f9be41ee92384a6
+    digest: 74ca30100dd34550f9cd938543d9b75542f5d01db2a1998748a4a11674434e38
     name: k8s-logging
     type: application
     urls:
@@ -14,7 +14,7 @@ entries:
   postgresql-dev-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-05-30T00:30:42.363795+09:00"
+    created: "2024-05-30T00:52:06.156697+09:00"
     description: postgresql dev helm for GoormBread project
     digest: 26faa6f80283c2bc2cd6c7f5bc96daa9158f72640c8e57302403f2710c8237b9
     name: postgresql-dev-helm
@@ -25,7 +25,7 @@ entries:
   redis-dev-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-05-30T00:30:42.364028+09:00"
+    created: "2024-05-30T00:52:06.156932+09:00"
     description: redis dev helm for GoormBread project
     digest: fe0f7b028bafad761dd4d6c0ecace0d3f306659f09a20d5a740eedfea602e4a1
     name: redis-dev-helm
@@ -33,4 +33,4 @@ entries:
     urls:
     - redis-dev-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2024-05-30T00:30:42.363051+09:00"
+generated: "2024-05-30T00:52:06.155809+09:00"
