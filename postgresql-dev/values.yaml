@@ -1,4 +1,4 @@
-nodePort: 30032
+#github action secret
 postgresql:
   user: root
   password: root
