@@ -1,5 +1,5 @@
 apiVersion: v2
-name: k8s-logging
+name: logger
 description: kubernetes manifest. collect log and searh by elasticsearch & kibana
 type: application
 version: 0.1.0
