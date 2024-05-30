@@ -21,10 +21,6 @@ spec:
         env:
         - name: POSTGRES_DB
           value: goormbread
-        - name: POSTGRES_USER
-          value: {{ .Values.postgresql.user }}
-        - name: POSTGRES_PASSWORD
-          value: {{ .Values.postgresql.password }}
         volumeMounts:
         - mountPath: /var/lib/postgresql/data
           name: postgresql-storage
